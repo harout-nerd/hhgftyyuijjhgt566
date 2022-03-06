@@ -1,5 +1,0 @@
-- 👋 Hi, I’m Harout
-- 👀 I’m interested in math and coding.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate.
-- 📫 You can contact me on my instagrem @harout_choulgian.
